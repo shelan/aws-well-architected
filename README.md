@@ -7,4 +7,4 @@ Learn about the well architected framework in 30 days.
 
 ## Operational Excellence
   * 🤖  [ Day1 - Automate everything](operational-excellence/day1-automate-everything.md)
-  * 📈   [ Day2 - Monitor proactively] (operational-excellence/day2-monitor-proactively.md)
+  * 📈  [ Day2 - Monitor proactively](operational-excellence/day2-monitor-proactively.md)
