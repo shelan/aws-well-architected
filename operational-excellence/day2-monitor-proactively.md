@@ -20,6 +20,8 @@ AWS Management Console > CloudWatch > Metrics > EC2 > Per-Instance Metrics > CPU
 ### Memory Utilization
 Memory usage isn't tracked by default in CloudWatch, but you can push custom metrics using the CloudWatch agent.
 
+You can find information on how to configure the agenet [here](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent-commandline-fleet.html)
+
 ```bash
 sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl \
 -a fetch-config -m ec2 -c file:/tmp/my-config.json -s
