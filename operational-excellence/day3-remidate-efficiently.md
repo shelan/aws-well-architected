@@ -20,7 +20,15 @@ The **AWS Service Health Dashboard** offers real-time visibility into the status
 
 ### Creating Runbooks for Common Issues
 
-Runbooks are detailed guides for handling specific types of incidents. They ensure consistent and efficient response strategies. AWS Systems Manager allows you to create and manage runbooks. Here's a simple example of a runbook in AWS Systems Manager Automation document format:
+Runbooks are detailed guides for handling specific types of incidents. They ensure consistent and efficient response strategies. AWS Systems Manager allows you to create and manage runbooks.
+
+https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.runbook.en.html
+
+Also, you can use AWS tools to design runbooks
+
+https://docs.aws.amazon.com/systems-manager/latest/userguide/visual-designer-interface-overview.html
+
+ Here's a simple example of a runbook in AWS Systems Manager Automation document format:
 
 ```yaml
 schemaVersion: "0.3"
