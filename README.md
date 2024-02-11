@@ -39,3 +39,4 @@ Each pillar offers a set of design principles and best practices that guide you 
   * 🤖  [ Day1 - Automate everything](operational-excellence/day1-automate-everything.md)
   * 📈  [ Day2 - Monitor proactively](operational-excellence/day2-monitor-proactively.md)
   * 🚒  [ Day3 - Remidate Efficiently](operational-excellence/day3-remidate-efficiently.md)
+  * 🚀   [ Day4 - Continous Improvemnet](operational-excellence/day4-continous-imporvement.md)
