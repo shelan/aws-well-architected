@@ -43,4 +43,4 @@ Each pillar offers a set of design principles and best practices that guide you 
   * 📊  [ Day5 - Measuring Impact](operational-excellence/day5-measuring-impact.md)
   
 ## Security
-  * 🛡️  [ Day6 - Security](security/day6-defence-in-depth.md)
+  * 🛡️  [ Day6 - Defence in depth](security/day6-defence-in-depth.md)
