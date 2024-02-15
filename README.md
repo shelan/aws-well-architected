@@ -41,3 +41,6 @@ Each pillar offers a set of design principles and best practices that guide you 
   * 🚒  [ Day3 - Remidate Efficiently](operational-excellence/day3-remidate-efficiently.md)
   * 🚀  [ Day4 - Continous Improvemnet](operational-excellence/day4-continous-imporvement.md)
   * 📊  [ Day5 - Measuring Impact](operational-excellence/day5-measuring-impact.md)
+  
+## Security
+  * 🛡️  [ Day6 - Security](security/day6-defence-in-depth.md)
