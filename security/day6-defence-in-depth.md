@@ -70,8 +70,8 @@ Encrypting data at rest and in transit ensures that your information remains sec
 Amazon GuardDuty and AWS WAF further enhance security by providing intelligent threat detection and protection against web exploits, respectively. While specific code examples for these services are beyond the scope of this post due to their complexity and customization needs, AWS documentation provides comprehensive guides for their implementation.
 
 ### Best Practices for Encryption
-At Rest: Enable encryption by default on all storage services (S3, EBS, RDS, etc.). Use AWS Key Management Service (KMS) to manage encryption keys.
-In Transit: Utilize TLS/SSL to encrypt data in transit. Ensure that your load balancers and API gateways are configured to use HTTPS endpoints.
+* **At Rest**: Enable encryption by default on all storage services (S3, EBS, RDS, etc.). Use AWS Key Management Service (KMS) to manage encryption keys.
+* **In Transit**: Utilize TLS/SSL to encrypt data in transit. Ensure that your load balancers and API gateways are configured to use HTTPS endpoints.
 
 ## Conclusion
 Implementing Defense in Depth in AWS requires a comprehensive understanding of the available security services and features. By following the principles outlined in this post and leveraging IAM for least privilege access, securing your VPCs, and adhering to encryption best practices, you can significantly enhance the security posture of your AWS environment. Remember, security is a continuous process, and staying informed about AWS security best practices and updates is crucial for maintaining a robust defense strategy.
