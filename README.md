@@ -45,3 +45,4 @@ Each pillar offers a set of design principles and best practices that guide you 
 ## Security
   * 🛡️  [ Day6 - Defence in depth](security/day6-defence-in-depth.md)
   * 🔒  [ Day7- Least priviledge](security/day7-least-priviledge.md)
+  * 🔍  [ Day8 - continous security monitoring](security/day8-continuos-security-monitoring.md)
