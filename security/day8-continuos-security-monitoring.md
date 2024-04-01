@@ -1,10 +1,10 @@
 # Day 8: Continuous Security Monitoring with AWS
 
-n today's world of rapid digital transformation, it is crucial to ensure your cloud infrastructure security. Amazon Web Services (AWS) provides a range of instruments for keeping your security posture strong by continuous surveillance. In this blog post, we will explore in detail AWS GuardDuty, Security Hub and Amazon Inspector – how you can use these services for constant threat detection, vulnerability scanning and compliance monitoring. Moreover, we shall explain why log analysis and Security Information and Event Management (SIEM) integration are important towards achieving complete security monitoring.
+In today's world of rapid digital transformation, it is crucial to ensure your cloud infrastructure security. Amazon Web Services (AWS) provides a range of instruments for keeping your security posture strong by continuous surveillance. In this blog post, we will explore in detail AWS GuardDuty, Security Hub and Amazon Inspector – how you can use these services for constant threat detection, vulnerability scanning and compliance monitoring. Moreover, we shall explain why log analysis and Security Information and Event Management (SIEM) integration are important towards achieving complete security monitoring.
 
 ## AWS GuardDuty: Real-time Threat Detection
 
-AWS GuardDuty is a threat detection and continuous monitoring service that monitors your AWS accounts and workloads for malicious activities and unauthorized behavior. The use of machine learning, anomaly detection, as well as integrated threat intelligence enables the identification and prioritization of potential threats.
+AWS GuardDuty is a threat detection and continuous monitoring service that monitors your AWS accounts and workloads for malicious activities and unauthorized behavior. The use of machine learning, anomaly detection, as well as integrated threat intelligence, enables the identification and prioritization of potential threats.
 
 ### Configuring GuardDuty
 
