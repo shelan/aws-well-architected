@@ -28,7 +28,7 @@ aws securityhub enable-security-hub --enable-default-standards
 This command not only enables Security Hub but also activates the default security standards.
 
 
-### Amazon Inspector: Automated Security Assessment
+## Amazon Inspector: Automated Security Assessment
 Amazon Inspector automatically assesses applications for exposure, vulnerabilities, and deviations from best practices.
 
 #### Running an Assessment Template
@@ -40,7 +40,7 @@ aws inspector start-assessment-run --assessment-template-arn <your-template-arn>
 
 This command initiates an assessment run based on the specified template ARN.
 
-### Log Analysis and SIEM Integration
+## Log Analysis and SIEM Integration
 
 Log analysis is crucial for identifying security incidents, troubleshooting issues, and ensuring compliance. AWS provides several tools for log management, such as CloudWatch Logs. Integrating your AWS environment with a SIEM solution can further enhance your security monitoring capabilities.
 
